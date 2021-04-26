@@ -7,7 +7,6 @@ use Illuminate\Http\Request;
 
 class PatientController extends Controller
 {
-    //
     public function patients()  
     {
         $patients = Patient::all();
