@@ -12,3 +12,5 @@ npm-debug.log
 yarn-error.log
 logs/xvba_debug.log
 logs/xvba_debug.log
+composer.json
+composer.lock
